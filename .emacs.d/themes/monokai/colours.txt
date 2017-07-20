@@ -1,0 +1,85 @@
+;; Primary colors
+(defcustom monokai-yellow "#E6DB74"
+  "Primary colors - yellow"
+  :type 'string
+  :group 'monokai)
+
+(defcustom monokai-orange "#FD971F"
+  "Primary colors - orange"
+  :type 'string
+  :group 'monokai)
+
+(defcustom monokai-red "#dc143c"
+  "Primary colors - red"
+  :type 'string
+  :group 'monokai)
+
+(defcustom monokai-magenta "#FD5FF0"
+  "Primary colors - magenta"
+  :type 'string
+  :group 'monokai)
+
+(defcustom monokai-blue "#9999FF"
+  "Primary colors - blue"
+  :type 'string
+  :group 'monokai)
+
+(defcustom monokai-green "#A6E22E"
+  "Primary colors - green"
+  :type 'string
+  :group 'monokai)
+
+(defcustom monokai-cyan "#A1EFE4"
+  "Primary colors - cyan"
+  :type 'string
+  :group 'monokai)
+
+(defcustom monokai-violet "#AE81FF"
+  "Primary colors - violet"
+  :type 'string
+  :group 'monokai)
+
+(defcustom monokai-gray "#64645E"
+  "Primary colors - gray"
+  :type 'string
+  :group 'monokai)
+
+(defcustom monokai-foreground "#F8F8F2"
+  "Adaptive colors - foreground"
+  :type 'string
+  :group 'monokai)
+
+(defcustom monokai-background "#101010"
+  "Adaptive colors - background"
+  :type 'string
+  :group 'monokai)
+
+(defcustom monokai-comments "#75715E"
+  "Adaptive colors - comments"
+  :type 'string
+  :group 'monokai)
+
+(defcustom monokai-emphasis "#F8F8F0"
+  "Adaptive colors - emphasis"
+  :type 'string
+  :group 'monokai)
+
+(defcustom monokai-line-number "#8F908A"
+  "Adaptive colors - line number"
+  :type 'string
+  :group 'monokai)
+
+(defcustom monokai-highlight "#49483E"
+  "Adaptive colors - highlight"
+  :type 'string
+  :group 'monokai)
+
+(defcustom monokai-highlight-alt "#3E3D31"
+  "Adaptive colors - highlight"
+  :type 'string
+  :group 'monokai)
+
+(defcustom monokai-highlight-line "#3C3D37"
+  "Adaptive colors - line highlight"
+  :type 'string
+  :group 'monokai)

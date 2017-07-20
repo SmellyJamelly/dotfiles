@@ -1,0 +1,2 @@
+#!/bin/sh
+feh  --bg-scale '/home/smelly/Pictures/Wallpapers/wallpaper.jpg' 
